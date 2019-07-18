@@ -5,7 +5,7 @@ Provides a polyfill for [Nodelist.prototype.forEach()](https://developer.mozilla
 ## Native support
 
 Chrome 51, Firefox 50, Opera 38, Safari 10  
-Android Browser none, IE Mobile none, IE none  
+Android Browser 51, IE Mobile none, IE none  
 See [MDN](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach) for more information.
 
 ## Import
